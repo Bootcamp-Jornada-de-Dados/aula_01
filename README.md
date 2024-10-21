@@ -18,7 +18,7 @@ $ cd <diretorio_do_repositorio>
     
 ## Deploy
 
-Para realizar a execução do programa realizar os procedimentos a seguir
+Para realizar a execução do programa seguir o comando abaixo:
 
 ```bash
   python kpy.py
