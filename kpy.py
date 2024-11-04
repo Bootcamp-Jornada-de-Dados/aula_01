@@ -7,4 +7,4 @@ bonus = float(input ("Informe a Porcentagem do Bonus: "))
 
 total_bonus = 1000 + (salario * bonus)
 
-print("Olá " + nome + ", seu bônus foi de "  + str(total_bonus))
+print(f"Olá {nome}, seu bônus foi de {total_bonus})
